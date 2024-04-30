@@ -8,29 +8,29 @@ Technologies used:
 
 ### Fundamental theory:
 
-[x] Introduction to Ethereum
-[x] Development Tools
-[x] Development with HardHat
-[x] Development with Foundry
+* [x] Introduction to Ethereum
+* [x] Development Tools
+* [x] Development with HardHat
+* [x] Development with Foundry
 
 ### Smart Contract Development
 
-[x] Introduction to Solidity
-[x] Contracts and Basic Functions
-[x] Deploying to a Testnet
-[x] Control Structures
-[x] Storage in Solidity
-[x] Arrays in Solidity
-[] The Mapping Type
-[] Advanced Functions
-[] Structs
-[] Inheritance
-[] Imports
-[] Errors
-[] The `new` Keyword
-[] Contract to Contract Interactions
-[] Events
-[] Address and Payable
+* [x] Introduction to Solidity
+* [x] Contracts and Basic Functions
+* [x] Deploying to a Testnet
+* [x] Control Structures
+* [x] Storage in Solidity
+* [x] Arrays in Solidity
+* [] The Mapping Type
+* [] Advanced Functions
+* [] Structs
+* [] Inheritance
+* [] Imports
+* [] Errors
+* [] The `new` Keyword
+* [] Contract to Contract Interactions
+* [] Events
+* [] Address and Payable
 
 ##### HardHat commands:
 
