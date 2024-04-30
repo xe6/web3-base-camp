@@ -21,16 +21,16 @@ Technologies used:
 * [x] Control Structures
 * [x] Storage in Solidity
 * [x] Arrays in Solidity
-* [] The Mapping Type
-* [] Advanced Functions
-* [] Structs
-* [] Inheritance
-* [] Imports
-* [] Errors
-* [] The `new` Keyword
-* [] Contract to Contract Interactions
-* [] Events
-* [] Address and Payable
+* [ ] The Mapping Type
+* [ ] Advanced Functions
+* [ ] Structs
+* [ ] Inheritance
+* [ ] Imports
+* [ ] Errors
+* [ ] The `new` Keyword
+* [ ] Contract to Contract Interactions
+* [ ] Events
+* [ ] Address and Payable
 
 ##### HardHat commands:
 
