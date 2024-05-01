@@ -21,7 +21,7 @@ Technologies used:
 * [x] Control Structures
 * [x] Storage in Solidity
 * [x] Arrays in Solidity
-* [ ] The Mapping Type
+* [x] The Mapping Type
 * [ ] Advanced Functions
 * [ ] Structs
 * [ ] Inheritance
