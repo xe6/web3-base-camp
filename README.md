@@ -24,7 +24,7 @@ Technologies used:
 * [x] The Mapping Type
 * [x] Advanced Functions
 * [x] Structs
-* [ ] Inheritance
+* [x] Inheritance
 * [ ] Imports
 * [ ] Errors
 * [ ] The `new` Keyword
