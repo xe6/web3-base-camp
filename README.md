@@ -25,7 +25,7 @@ Technologies used:
 * [x] Advanced Functions
 * [x] Structs
 * [x] Inheritance
-* [ ] Imports
+* [x] Imports
 * [ ] Errors
 * [ ] The `new` Keyword
 * [ ] Contract to Contract Interactions
