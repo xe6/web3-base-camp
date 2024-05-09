@@ -26,7 +26,7 @@ Technologies used:
 * [x] Structs
 * [x] Inheritance
 * [x] Imports
-* [ ] Errors
+* [x] Errors
 * [ ] The `new` Keyword
 * [ ] Contract to Contract Interactions
 * [ ] Events
