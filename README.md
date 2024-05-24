@@ -30,7 +30,7 @@ Technologies used:
 * [x] The `new` Keyword
 * [x] Contract to Contract Interactions
 * [x] Events
-* [ ] Address and Payable
+* [x] Address and Payable
 
 ##### HardHat commands:
 
