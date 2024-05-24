@@ -29,8 +29,8 @@ Technologies used:
 * [x] Errors
 * [x] The `new` Keyword
 * [x] Contract to Contract Interactions
-* [] Events
-* [] Address and Payable
+* [x] Events
+* [ ] Address and Payable
 
 ##### HardHat commands:
 

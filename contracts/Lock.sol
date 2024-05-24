@@ -3,7 +3,11 @@ pragma solidity ^0.8.17;
 
 import "hardhat/console.sol";
 
-contract Lock {
+interface ILock {
+    event Created(address owner, uint amount);
+}
+
+contract Lock is ILock {
     uint public unlockTime;
     address payable public owner;
 
@@ -17,6 +21,7 @@ contract Lock {
 
         unlockTime = _unlockTime;
         owner = payable(msg.sender);
+        emit Created(msg.sender, msg.value);
     }
 
     function withdraw() public {
