@@ -4,6 +4,11 @@ import "@nomicfoundation/hardhat-toolbox";
 const config: HardhatUserConfig = {
   defaultNetwork: "base",
   networks: {
+    hardhat: {
+      forking: {
+        url: "https://"
+      }
+    },
     base_sepolia: {
       url: "https://sepolia.base.org",
       accounts: ["<private key 1>"],
