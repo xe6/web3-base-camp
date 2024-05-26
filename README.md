@@ -32,6 +32,12 @@ Technologies used:
 * [x] Events
 * [x] Address and Payable
 
+### Token Development
+* [x] Introduction to Tokens
+* [x] Minimal Tokens
+* [x] ERC-20 Tokens
+* [ ] ERC-721 Tokens
+
 ##### HardHat commands:
 
 ```shell
