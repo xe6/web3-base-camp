@@ -36,7 +36,7 @@ Technologies used:
 * [x] Introduction to Tokens
 * [x] Minimal Tokens
 * [x] ERC-20 Tokens
-* [ ] ERC-721 Tokens
+* [x] ERC-721 Tokens
 
 ##### HardHat commands:
 
